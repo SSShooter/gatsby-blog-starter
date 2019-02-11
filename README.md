@@ -12,7 +12,11 @@ Or [view the live demo here](https://gatsby-starter-blog-demo.netlify.com/).
 
 `gatsby develop`
 
-## thanks
+## Tutorial
+
+[中文](https://ssshooter.com/2019-02-11-gatsby-tutorial/)
+
+## Thanks
 
 https://www.pixiv.net/member_illust.php?mode=medium&illust_id=18073647
 
